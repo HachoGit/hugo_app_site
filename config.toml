@@ -1,4 +1,4 @@
-baseURL = 'https://cosmic-lolly-f60d24.netlify.app/
+baseURL = 'https://cosmic-lolly-f60d24.netlify.app/'
 languageCode = 'ja'
 title = 'My App Site'
 theme = 'PaperMod'
