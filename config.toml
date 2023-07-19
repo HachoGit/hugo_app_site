@@ -3,4 +3,3 @@ languageCode = 'ja'
 title = 'My App Site'
 theme = 'PaperMod'
 publishDir = "docs"
-canonifyurls = true
