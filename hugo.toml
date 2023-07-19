@@ -1,4 +1,4 @@
-baseURL = 'https://<USERNAME>.github.io/'
+baseURL = 'https://HachoGit.github.io/'
 languageCode = 'ja'
 title = 'My App Site'
 theme = 'PaperMod'
