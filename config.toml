@@ -2,4 +2,3 @@ baseURL = 'https://HachoGit.github.io/'
 languageCode = 'ja'
 title = 'My App Site'
 theme = 'PaperMod'
-publishDir = "docs"
