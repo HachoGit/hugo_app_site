@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://<USERNAME>.github.io/'
+languageCode = 'ja'
+title = 'My App Site'
 theme = 'PaperMod'
+publishDir = "docs"
+canonifyurls = true
